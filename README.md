@@ -6,8 +6,8 @@
 2. [¿Cómo se utiliza?](https://github.com/Reach-AM/Documentacion-para-usuario-final#2-c%C3%B3mo-se-utiliza)
 3. [¿Qué archivos lo componen?](https://github.com/Reach-AM/Documentacion-para-usuario-final#3-qu%C3%A9-archivos-lo-componen)
 4. [¿Cómo funciona?](https://github.com/Reach-AM/Documentacion-para-usuario-final#4-c%C3%B3mo-funciona)
-4.1. [¿Node.java?](https://github.com/Reach-AM/Documentacion-para-usuario-final#41-nodejava)
-4.2. [¿solver.java?](https://github.com/Reach-AM/Documentacion-para-usuario-final#42-solverjava)
+    1. [¿Node.java?](https://github.com/Reach-AM/Documentacion-para-usuario-final#41-nodejava)
+    2. [¿solver.java?](https://github.com/Reach-AM/Documentacion-para-usuario-final#42-solverjava)
 
 ## 1. ¿Para qué es?
 
