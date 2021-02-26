@@ -2,12 +2,12 @@
 
 ## Índice
 
-1. [¿Para qué es?] ()
-2. [¿Cómo se utiliza?] ()
-3. [¿Qué archivos lo componen?] ()
-4. [¿Cómo funciona?] ()
-4.1. [¿Node.java?] ()
-4.2. [¿solver.java?] ()
+1. [¿Para qué es?](https://github.com/Reach-AM/Documentacion-para-usuario-final/blob/main/README.md#1-para-qu%C3%A9-es)
+2. [¿Cómo se utiliza?](https://github.com/Reach-AM/Documentacion-para-usuario-final#2-c%C3%B3mo-se-utiliza)
+3. [¿Qué archivos lo componen?](https://github.com/Reach-AM/Documentacion-para-usuario-final#3-qu%C3%A9-archivos-lo-componen)
+4. [¿Cómo funciona?](https://github.com/Reach-AM/Documentacion-para-usuario-final#4-c%C3%B3mo-funciona)
+4.1. [¿Node.java?](https://github.com/Reach-AM/Documentacion-para-usuario-final#41-nodejava)
+4.2. [¿solver.java?](https://github.com/Reach-AM/Documentacion-para-usuario-final#42-solverjava)
 
 ## 1. ¿Para qué es?
 
@@ -36,18 +36,23 @@ en Mac o Linux.
 Una vez iniciado el programa este te pregunta que ejemplo quieres correr (A,B,C,D o E). En caso de que se introduzca algo diferente el prgorama corre el ejemplo A por default. Los árboles que se utilzian en los ejemplos corresponden a los siguientes:
 
 **A**
+
 ![Árboles de ejemplo](./img/a.png)
 
 **B**
+
 ![Árboles de ejemplo](./img/b.png)
 
 **C**
+
 ![Árboles de ejemplo](./img/c.png)
 
 **D**
+
 ![Árboles de ejemplo](./img/d.png)
 
 **E**
+
 ![Árboles de ejemplo](./img/e.png)
 
 En este punto cabe mencionar que los nombres de los nodos (e.g.: "A", "H", "G",...) son meramente simbólicos y sirven únicamente para mostrar de una manera gráfica el proceso que siguió el programa para buscar la solución. Para interpretar el *output* utilizaremos el árbol A de ejemplo:
